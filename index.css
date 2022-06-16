@@ -11,6 +11,7 @@ main {
     max-width: 900px;
     max-height: 500px;
     display: flex;
+    flex-wrap: wrap;
 }
 .card {
     height: 100%;
